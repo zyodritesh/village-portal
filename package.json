@@ -1,0 +1,17 @@
+{
+  "name": "village-portal-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "googleapis": "^120.0.0",
+    "next": "13.x",
+    "react": "18.x",
+    "react-dom": "18.x",
+    "swr": "^2.1.0"
+  }
+}
